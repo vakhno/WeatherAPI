@@ -1,6 +1,6 @@
 // ссылка и ключ на OpenWeahterApi
 const api = {
-	url: `http://api.openweathermap.org/data/2.5/`,
+	url: `https://api.openweathermap.org/data/2.5/`,
 	key: `b7bf80efafd4a87d928b38d509b14759`,
 };
 
