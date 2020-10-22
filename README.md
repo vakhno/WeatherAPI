@@ -6,7 +6,7 @@
 
 Cloning a project to your directory
 
-### `git i`
+### `npm i`
 
 Installing a packages
 
